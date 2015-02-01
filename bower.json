@@ -1,0 +1,11 @@
+{
+  "name": "dive-planner",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hannesholst/dive-planner",
+  "authors": [
+    "Hannes Holst <hannes.holst@euri.com>"
+  ],
+  "description": "Tool for planning dives in Zealand",
+  "license": "MIT",
+  "private": true
+}

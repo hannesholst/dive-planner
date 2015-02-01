@@ -1,0 +1,19 @@
+{
+  "name": "dive-planner",
+  "version": "1.0.0",
+  "description": "Tool for planning dives in Zealand",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hannesholst/dive-planner.git"
+  },
+  "author": "Hannes Holst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannesholst/dive-planner/issues"
+  },
+  "homepage": "https://github.com/hannesholst/dive-planner"
+}
